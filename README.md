@@ -32,6 +32,13 @@ python part-a-am.py
 python part-b-am.py
 python part-c-am.py
 python part-d-am.py
+sales.csv (data)
+part-a-pm.py (Concepts, Regression, and Classification models)
+part-b-pm.py (Feature analysis and model improvement)
+part-c-pm.py (Interview Theory and Pandas filtering)
+part-d-pm.py (AI prompt documentation and evaluation)
+insurance.csv (data)
+
 ```
 
 ## Insights
