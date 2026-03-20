@@ -1,4 +1,4 @@
-# Week 04 · Day 22 (AM Session) — Pandas & Matplotlib Assignment
+# Week 04 · Day 22 (Session) — Assignment
 
 This repository contains the solution for the **PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar** assignment on Week 4, Day 22.
 
